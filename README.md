@@ -34,7 +34,7 @@ A clean, responsive, SEO-friendly landing page for a fictional fresh juice busin
 
 ```bash
 npm install
-npm run dev
+npm run dev -- --host 0.0.0.0
 ```
 
 4. Open your browser and go to:
